@@ -7,11 +7,11 @@
 **Команда:** Alina Y., Bakhytnur U., Dana K. (вклад каждого: см. раздел «Вклад участников»).
 
 ## Данные
+Все результаты получены на реальном датасете MovieLens 32M (32 000 204 оценок, 87 585 фильмов, 200 948 пользователей), скачанном с сайта GroupLens
 MovieLens 32M (GroupLens Research, University of Minnesota):
 https://grouplens.org/datasets/movielens/32m/
 Прямая ссылка: https://files.grouplens.org/datasets/movielens/ml-32m.zip (239 МБ; 32 000 204 оценок, 87 585 фильмов, 200 948 пользователей).
-Используются `ratings.csv` и `movies.csv`. Датасет в репозиторий не включён (объём и лицензия).
-Можно использовать и MovieLens 25M (`ml-25m.zip`) - код не меняется.
+Используются `ratings.csv` и `movies.csv`. 
 
 Цитирование: F. M. Harper, J. A. Konstan. *The MovieLens Datasets: History and Context.*
 ACM TiiS 5(4), 2015. https://doi.org/10.1145/2827872
