@@ -1,0 +1,13 @@
+{
+  "convert": {
+    "rows": 32000204,
+    "parquet_mb": 212.3737335205078
+  },
+  "io": {
+    "csv_size_mb": 836.4,
+    "parquet_size_mb": 212.4,
+    "csv_read_s": 15.42,
+    "csv_optimized_read_s": 22.2,
+    "parquet_read_s": 0.98
+  }
+}

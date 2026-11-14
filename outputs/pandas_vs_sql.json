@@ -1,0 +1,8 @@
+{
+  "pandas_csv_baseline_s": 20.86,
+  "pandas_parquet_s": 3.41,
+  "sqlite_s": 108.84,
+  "results_match_baseline_vs_parquet": true,
+  "results_match_pandas_vs_sql": true,
+  "fastest": "pandas_parquet_s"
+}

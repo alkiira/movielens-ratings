@@ -1,0 +1,21 @@
+{
+  "audit": {
+    "n_ratings": 32000204,
+    "n_users": 200948,
+    "n_movies_rated": 84432,
+    "n_movies_catalog": 87585,
+    "nulls_ratings": 0,
+    "duplicate_user_movie": 0,
+    "rating_min": 0.5,
+    "rating_max": 5.0,
+    "orphan_movieIds": 0,
+    "movies_without_year": 617,
+    "movies_no_genre": 7080
+  },
+  "memory": {
+    "rows": 32000204,
+    "memory_before_mb": 976.6,
+    "memory_after_mb": 488.3,
+    "saving_pct": 50.0
+  }
+}

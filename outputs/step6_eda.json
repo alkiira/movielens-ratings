@@ -1,0 +1,58 @@
+{
+  "popularity_vs_quality": {
+    "n_movies": 16034,
+    "spearman_rho": 0.215,
+    "mean_rating_by_popularity_quartile": {
+      "Q1 (редкие)": 3.16,
+      "Q2": 3.226,
+      "Q3": 3.256,
+      "Q4 (популярные)": 3.411
+    }
+  },
+  "outliers_user_activity": {
+    "q1": 36.0,
+    "q3": 167.0,
+    "upper_fence": 363.5,
+    "n_outliers": 20109,
+    "share_pct": 10.01
+  },
+  "outliers_movie_popularity": {
+    "q1": 2.0,
+    "q3": 25.0,
+    "upper_fence": 59.5,
+    "n_outliers": 14884,
+    "share_pct": 17.63
+  },
+  "top5_bayesian": [
+    {
+      "title": "Planet Earth (2006)",
+      "n": 2948,
+      "avg_rating": 4.444,
+      "bayes": 4.415
+    },
+    {
+      "title": "Shawshank Redemption, The (1994)",
+      "n": 102929,
+      "avg_rating": 4.405,
+      "bayes": 4.404
+    },
+    {
+      "title": "Planet Earth II (2016)",
+      "n": 1956,
+      "avg_rating": 4.447,
+      "bayes": 4.403
+    },
+    {
+      "title": "Band of Brothers (2001)",
+      "n": 2811,
+      "avg_rating": 4.427,
+      "bayes": 4.396
+    },
+    {
+      "title": "Godfather, The (1972)",
+      "n": 66440,
+      "avg_rating": 4.317,
+      "bayes": 4.316
+    }
+  ]
+}
